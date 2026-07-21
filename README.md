@@ -45,6 +45,8 @@ I turn data into actionable insights through clean dashboards and analysis.
 - Analysed datasets to extract insights
 
 - Practiced real-world business questions like the worlddb dataset
+- <img width="1920" height="1020" alt="Employee sql preview" src="https://github.com/user-attachments/assets/ac42a35c-bc10-45f5-bff4-7ecc4f549ba6" />
+
 
 👉 Tools Used: SQL
 
