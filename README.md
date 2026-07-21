@@ -67,5 +67,7 @@ I turn data into actionable insights through clean dashboards and analysis.
 
 - LinkedIn: www.linkedin.com/in/taiwo-omilabuthewaters
 
+- ✨ Actively seeking entry-level Data Analyst opportunities
+
 
 
